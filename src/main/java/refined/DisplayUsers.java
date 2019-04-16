@@ -156,7 +156,7 @@ public final class DisplayUsers extends javax.swing.JDialog {
 
             },
             new String [] {
-                "ID", "EMPLOYEE ID", "USERNAME", "PASSWORD", "ROLL"
+                "ID", "EMPLOYEE ID", "USERNAME", "PASSWORD", "ROLE"
             }
         ) {
             boolean[] canEdit = new boolean [] {
